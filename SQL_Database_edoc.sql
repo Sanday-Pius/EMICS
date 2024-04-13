@@ -21,6 +21,8 @@ SET time_zone = "+00:00";
 --
 -- Database: `edoc`
 --
+CREATE Database edoc;
+use edoc;
 
 -- --------------------------------------------------------
 
